@@ -1,0 +1,19 @@
+.red{
+    color: red;
+    text-align: center;
+}
+.title{
+    text-decoration: dotted;
+}
+img{
+    width: 60%;
+    height: 40%;
+    margin-left: 280px;
+    text-align: center;
+
+}
+video{
+width: 60%;
+margin-left: 280px;
+margin-top: 100px;
+}
